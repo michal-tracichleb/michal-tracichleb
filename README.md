@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Michał Tracichleb
+- 🌱 I’m currently learning C#, HTML, CSS and SQGL
